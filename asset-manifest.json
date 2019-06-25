@@ -1,18 +1,29 @@
 {
   "files": {
-    "main.css": "/veruwebsite/static/css/main.c09b25c0.chunk.css",
-    "main.js": "/veruwebsite/static/js/main.6fe9b7c2.chunk.js",
-    "main.js.map": "/veruwebsite/static/js/main.6fe9b7c2.chunk.js.map",
+    "main.css": "/veruwebsite/static/css/main.401e8083.chunk.css",
+    "main.js": "/veruwebsite/static/js/main.c12b4082.chunk.js",
+    "main.js.map": "/veruwebsite/static/js/main.c12b4082.chunk.js.map",
     "runtime~main.js": "/veruwebsite/static/js/runtime~main.7c1ba9fa.js",
     "runtime~main.js.map": "/veruwebsite/static/js/runtime~main.7c1ba9fa.js.map",
     "static/css/2.9522b9fe.chunk.css": "/veruwebsite/static/css/2.9522b9fe.chunk.css",
-    "static/js/2.1a543e43.chunk.js": "/veruwebsite/static/js/2.1a543e43.chunk.js",
-    "static/js/2.1a543e43.chunk.js.map": "/veruwebsite/static/js/2.1a543e43.chunk.js.map",
+    "static/js/2.a2b12e65.chunk.js": "/veruwebsite/static/js/2.a2b12e65.chunk.js",
+    "static/js/2.a2b12e65.chunk.js.map": "/veruwebsite/static/js/2.a2b12e65.chunk.js.map",
     "index.html": "/veruwebsite/index.html",
-    "precache-manifest.66963e7e364e15c2366d1bdec7bd0e68.js": "/veruwebsite/precache-manifest.66963e7e364e15c2366d1bdec7bd0e68.js",
+    "precache-manifest.fb6bbc8aaf9194df09ea0342c4393a21.js": "/veruwebsite/precache-manifest.fb6bbc8aaf9194df09ea0342c4393a21.js",
     "service-worker.js": "/veruwebsite/service-worker.js",
     "static/css/2.9522b9fe.chunk.css.map": "/veruwebsite/static/css/2.9522b9fe.chunk.css.map",
-    "static/css/main.c09b25c0.chunk.css.map": "/veruwebsite/static/css/main.c09b25c0.chunk.css.map",
-    "static/media/App.css": "/veruwebsite/static/media/Veru_Perspective_Web.1a0f305e.jpg"
+    "static/css/main.401e8083.chunk.css.map": "/veruwebsite/static/css/main.401e8083.chunk.css.map",
+    "static/media/Design_01.jpg": "/veruwebsite/static/media/Design_01.5382cf91.jpg",
+    "static/media/Design_02.jpg": "/veruwebsite/static/media/Design_02.4fa36352.jpg",
+    "static/media/App.css": "/veruwebsite/static/media/Veru_Perspective_Web.1a0f305e.jpg",
+    "static/media/Personas01.jpg": "/veruwebsite/static/media/Personas01.a9473693.jpg",
+    "static/media/Personas02.jpg": "/veruwebsite/static/media/Personas02.f20c0f8e.jpg",
+    "static/media/Personas03.jpg": "/veruwebsite/static/media/Personas03.04bee475.jpg",
+    "static/media/Vision_01.jpg": "/veruwebsite/static/media/Vision_01.7d1f732d.jpg",
+    "static/media/Vision_02.jpg": "/veruwebsite/static/media/Vision_02.9fb33ae1.jpg",
+    "static/media/Vision_03.jpg": "/veruwebsite/static/media/Vision_03.02d9ef7c.jpg",
+    "static/media/Vision_04.jpg": "/veruwebsite/static/media/Vision_04.03c6faf3.jpg",
+    "static/media/Vision_05.jpg": "/veruwebsite/static/media/Vision_05.323a6d73.jpg",
+    "static/media/Vision_06.jpg": "/veruwebsite/static/media/Vision_06.ed4d724d.jpg"
   }
 }
