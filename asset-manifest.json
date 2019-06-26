@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/veruwebsite/static/css/main.401e8083.chunk.css",
+    "main.css": "/veruwebsite/static/css/main.45024408.chunk.css",
     "main.js": "/veruwebsite/static/js/main.1f991e04.chunk.js",
     "main.js.map": "/veruwebsite/static/js/main.1f991e04.chunk.js.map",
     "runtime~main.js": "/veruwebsite/static/js/runtime~main.7c1ba9fa.js",
@@ -9,10 +9,10 @@
     "static/js/2.c1bf7342.chunk.js": "/veruwebsite/static/js/2.c1bf7342.chunk.js",
     "static/js/2.c1bf7342.chunk.js.map": "/veruwebsite/static/js/2.c1bf7342.chunk.js.map",
     "index.html": "/veruwebsite/index.html",
-    "precache-manifest.543afebafcec53c290ced97d39f643f7.js": "/veruwebsite/precache-manifest.543afebafcec53c290ced97d39f643f7.js",
+    "precache-manifest.b57f7c0a8b370ad79e220e61db70e183.js": "/veruwebsite/precache-manifest.b57f7c0a8b370ad79e220e61db70e183.js",
     "service-worker.js": "/veruwebsite/service-worker.js",
     "static/css/2.9522b9fe.chunk.css.map": "/veruwebsite/static/css/2.9522b9fe.chunk.css.map",
-    "static/css/main.401e8083.chunk.css.map": "/veruwebsite/static/css/main.401e8083.chunk.css.map",
+    "static/css/main.45024408.chunk.css.map": "/veruwebsite/static/css/main.45024408.chunk.css.map",
     "static/media/Design_01.1.jpg": "/veruwebsite/static/media/Design_01.1.30ae79ba.jpg",
     "static/media/Design_01.jpg": "/veruwebsite/static/media/Design_01.9567d744.jpg",
     "static/media/Design_02.2.jpg": "/veruwebsite/static/media/Design_02.2.75fd9a9c.jpg",

@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7b285d29542bd84b4ccb03fda4248583",
+    "revision": "9a4a4f0f9f7ab0d4bee0c067ad104131",
     "url": "/veruwebsite/index.html"
   },
   {
@@ -8,15 +8,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/veruwebsite/static/css/2.9522b9fe.chunk.css"
   },
   {
-    "revision": "9ba1ae08a00e7ef2f56e",
-    "url": "/veruwebsite/static/css/main.401e8083.chunk.css"
+    "revision": "1cac90a6daeb57b1bc93",
+    "url": "/veruwebsite/static/css/main.45024408.chunk.css"
   },
   {
     "revision": "551a24604c5cde6f8977",
     "url": "/veruwebsite/static/js/2.c1bf7342.chunk.js"
   },
   {
-    "revision": "9ba1ae08a00e7ef2f56e",
+    "revision": "1cac90a6daeb57b1bc93",
     "url": "/veruwebsite/static/js/main.1f991e04.chunk.js"
   },
   {
@@ -48,8 +48,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/veruwebsite/static/media/Gilroy-Light.c62aded7.otf"
   },
   {
-    "revision": "a1d7f875c3e01a3e171dc0c7227290d8",
-    "url": "/veruwebsite/static/media/Header_BG.a1d7f875.jpg"
+    "revision": "e992a9833f6a70e98c1b0d2c8bf21282",
+    "url": "/veruwebsite/static/media/Header_BG.e992a983.jpg"
   },
   {
     "revision": "a94736935cc3d7ce29bd535047e1a9c9",
